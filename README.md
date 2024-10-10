@@ -8,7 +8,7 @@ vid = cv2.VideoWriter('video.mp4', cv2.VideoWriter_fourcc(*'avc1'), fps, (width,
 
 If you are using these wheels and you find them useful, please consider making a donation of 20 GBP/EUR/USD to https://paypal.me/uropanet
 
-I have spent several days understanding how to put all the pieces together using Docker and compiling various libraries as well as FFmpeg.
+I have spent several days understanding how to put all the pieces together using Docker and compiling various libraries as well as FFmpeg. Your donation will help fund my time dedicated to software development.
 
 The wheels are distributed as they are with no specific licence attached to them. However, given the differences in licences between ffmpeg and x264/x265, you should be aware of what you can and can't do commercially or in redistributing them.
 
